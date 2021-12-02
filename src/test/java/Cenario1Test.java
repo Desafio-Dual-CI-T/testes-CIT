@@ -33,6 +33,9 @@ public class Cenario1Test {
         WebDriver driver = new ChromeDriver();
         driver.get("https://opentdb.com/");
         
+        
+        
+        
         cenario1 = new Testes(driver);
         
     }
@@ -53,7 +56,7 @@ public class Cenario1Test {
     // The methods must be annotated with annotation @CadastroTest. For example:
     //
      @org.junit.jupiter.api.Test
-    public void test() {
+    public void test() throws Exception {
         cenario1.preencheCampos();
        
     }

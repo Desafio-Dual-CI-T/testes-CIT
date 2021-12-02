@@ -43,6 +43,8 @@ public class Cenario3Test {
     
     @BeforeEach
     public void setUp() {
+        
+       
     }
     
     @AfterEach
@@ -57,7 +59,7 @@ public class Cenario3Test {
     
     
     @org.junit.jupiter.api.Test
-    public void teste() {
+    public void teste() throws InterruptedException {
     cenario1.preencher();
     }
 }

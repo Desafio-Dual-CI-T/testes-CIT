@@ -6,13 +6,16 @@
 import com.mycompany.teste.Testes;
 import java.io.File;
 import java.time.Duration;
+import java.util.List;
 import java.util.concurrent.TimeUnit;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.BeforeAll;
+import org.openqa.selenium.By;
 
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 /**
@@ -35,18 +38,25 @@ public class Cenario2Test {
         
         cenario1 = new Testes(driver);
         
+        
     }
     
     @AfterAll
     public static void tearDownClass() {
+        
+        
+        
     }
     
     @BeforeEach
     public void setUp() {
+        
+        
     }
     
     @AfterEach
     public void tearDown() {
+       
     }
 
     // TODO add test methods here.
@@ -57,7 +67,12 @@ public class Cenario2Test {
     
     
     @org.junit.jupiter.api.Test
-    public void teste() {
+    public void teste() throws Exception {
     cenario1.selectCategory();
+     
+    
+    
+   
     }
+    
 }
