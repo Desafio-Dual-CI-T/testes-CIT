@@ -1,4 +1,4 @@
-﻿# testes-CIT
+﻿# Projeto-CIT 
 
 O Presente projeto foi criado utilizando as bases dos imports do trabalho criado em sala pela Professora Rafaela.
 Foi utilizado o framework selenium  na linguagem Java para realizarmos os testes solicitados pela CI&T.
