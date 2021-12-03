@@ -33,9 +33,8 @@ dois deles foram solicitados pela empresa CI&T, e o terceiro um cenário projeta
 # GITHUB_INTEGRANTES
 
 Henrique Novaes <br/>
-Vinícius Reis 
-
-Junio Gabriel 
-
-Diego Amancio 
-Lucas Marques 
+Vinícius Reis   <br/>
+Junio Gabriel   <br/>
+Diego Amancio   <br/>
+Lucas Marques   <br/>
+ 
