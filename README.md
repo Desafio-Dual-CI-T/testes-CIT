@@ -1,9 +1,9 @@
 ﻿# Projeto-CIT
 
-🚀 Começando
+# 🚀 Começando
 Os programa foi desenvolvido usando a linguágem java com framework selenium
 
-📋 Pré-requisitos
+# 📋 Pré-requisitos
 Para ter um teste 100% eficaz o usuário deverá baixar todas as dependecias do projeto ( JUnit, Chrome devtools v95, Selenium.Api , SeleniumHTMLDriver, SeleniumSupport, etc. ) 
 Necessario de um IDE ( de preferencia NetBeans 12.5, onde o projeto foi criado) 
 Necessario a instalação no ChromeDriver no link: https://chromedriver.chromium.org/downloads
@@ -13,17 +13,15 @@ Necessario a instalação no ChromeDriver no link: https://chromedriver.chromium
 É necessario configurar o caminho onde o ChromeDriver está alocado, para que não ocorra um  erro no teste.
 
 
-⚙️ Executando os testes
+# ⚙️ Executando os testes
 
 
 O primeiro realizar a pesquisa de Science: Computers e verificar se alguma questão é exibida. 
 
 O Segundo realiza a pesquisa de "Science: Computers" na aba "Category" e verifica se é encontrada o controle de paginação e exibe a quantidade de questão que aparecem.
 
-O Terceiro teste realiza uma busca de questão " Entertainment " e acessa o usuario responsavel pela primeira questão
+O Terceiro teste realiza uma busca de questão " Entertainment " e acessa o usuario responsavel pela primeira questão.
 
-🔩 Analise os testes de ponta a ponta
-Explique que eles verificam esses testes e porquê.
 
 
 # RESUMO
@@ -34,8 +32,10 @@ dois deles foram solicitados pela empresa CI&T, e o terceiro um cenário projeta
 
 # GITHUB_INTEGRANTES
 
-Henrique Novaes 
+Henrique Novaes <br/>
 Vinícius Reis 
+
 Junio Gabriel 
+
 Diego Amancio 
 Lucas Marques 
