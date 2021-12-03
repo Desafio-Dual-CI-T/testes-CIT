@@ -4,7 +4,7 @@
 Os programa foi desenvolvido usando a linguágem java com framework selenium
 
 # 📋 Pré-requisitos
-Para ter um teste 100% eficaz o usuário deverá baixar todas as dependecias do projeto ( JUnit, Chrome devtools v95, Selenium.Api , SeleniumHTMLDriver, SeleniumSupport, etc. ) 
+Para ter um teste 100% eficaz o usuário deverá baixar todas as dependêcias do projeto ( JUnit, Chrome devtools v95, Selenium.Api , SeleniumHTMLDriver, SeleniumSupport, etc. ) 
 Necessario de um IDE ( de preferencia NetBeans 12.5, onde o projeto foi criado) 
 Necessario a instalação no ChromeDriver no link: https://chromedriver.chromium.org/downloads
 
@@ -34,7 +34,7 @@ dois deles foram solicitados pela empresa CI&T, e o terceiro um cenário projeta
 
 Henrique Novaes <br/>
 Vinícius Reis: Git https://github.com/viniciusereis <br/>
-Junio Gabriel  Git https://github.com/XwXGabrielXwX <br/>
-Diego Amancio  Git https://github.com/Diego279<br/> 
+Junio Gabriel   <br/>
+Diego Amancio   <br/>
 Lucas Marques   <br/>
  
