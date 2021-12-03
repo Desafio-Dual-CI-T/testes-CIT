@@ -36,5 +36,5 @@ Henrique Novaes <br/>
 Vinícius Reis: Git https://github.com/viniciusereis <br/>
 Junio Gabriel  Git https://github.com/XwXGabrielXwX <br/>
 Diego Amancio  Git https://github.com/Diego279 <br/>
-Lucas Marques   <br/>
+Lucas Marques  Git https://github.com/Lucas-marques-web  <br/>
  
