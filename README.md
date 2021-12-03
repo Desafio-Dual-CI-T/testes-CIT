@@ -34,7 +34,7 @@ dois deles foram solicitados pela empresa CI&T, e o terceiro um cenário projeta
 
 Henrique Novaes <br/>
 Vinícius Reis   <br/>
-Junio Gabriel   <br/>
+Junio Gabriel Git: https://github.com/XwXGabrielXwX   <br/>
 Diego Amancio   <br/>
 Lucas Marques   <br/>
  
