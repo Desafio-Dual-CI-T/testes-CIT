@@ -1,4 +1,4 @@
-﻿# Projeto-CI&T
+﻿# Projeto-CIT
 
 # 🚀 Começando
 Os programa foi desenvolvido usando a linguágem java com framework selenium
@@ -32,7 +32,7 @@ dois deles foram solicitados pela empresa CI&T, e o terceiro um cenário projeta
 
 # GITHUB_INTEGRANTES
 
-Henrique Novaes <br/>
+Henrique Novaes Git: https://github.com/henriquebh8<br/>
 Vinícius Reis  Git: https://github.com/viniciusereis <br/>
 Junio Gabriel  Git: https://github.com/XwXGabrielXwX <br/>
 Diego Amancio  Git: https://github.com/Diego279 <br/>
