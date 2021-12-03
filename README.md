@@ -1,4 +1,4 @@
-﻿# Projeto-CIT
+﻿# Projeto-CI&T
 
 # 🚀 Começando
 Os programa foi desenvolvido usando a linguágem java com framework selenium
