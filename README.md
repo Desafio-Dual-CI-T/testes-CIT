@@ -26,13 +26,13 @@ O Terceiro teste realiza uma busca de questão " Entertainment " e acessa o usua
 Explique que eles verificam esses testes e porquê.
 
 
-﻿#RESUMO
+# RESUMO
 
 Os testes foram criados utilizando como exemplo o projeto criado em sala pela Professora Rafaela.
 Foram utilizado o framework selenium utilizando a linguagem java para realização dos testes. Foram feito três cenários distintos, 
 dois deles foram solicitados pela empresa CI&T, e o terceiro um cenário projetado e desenvolvido pelos alunos.
 
-﻿#GITHUB_INTEGRANTES
+# GITHUB_INTEGRANTES
 
 Henrique Novaes 
 Vinícius Reis 
