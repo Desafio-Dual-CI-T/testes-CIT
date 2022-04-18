@@ -4,13 +4,12 @@
 Os programa foi desenvolvido usando a linguágem java com framework selenium
 
 # 📋 Requisitos Funcionais.
-BrainStorm funcionalidades:
 
 
 ### Cadastro do usuário
-Login <br/>
-Cadastro dos serviços e insumos <br/>
-Agenda compartilhada <br/>
+Login
+Cadastro dos serviços e insumos 
+Agenda compartilhada
 Pesquisa de serviços <br/>
 Alteração de dados <br/>
 Forma de pagamento ( a combinar com o profissional) <br/> 
