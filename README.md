@@ -8,39 +8,39 @@ BrainStorm funcionalidades:
 
 
 ### Cadastro do usuário
-Login
-Cadastro dos serviços e insumos
-Agenda compartilhada.
-Pesquisa de serviços 
-Alteração de dados
-Forma de pagamento ( a combinar com o profissional) 
-Agendamento 
-Comunicação direta entre cliente e profissional (número de celular)
+Login <br/>
+Cadastro dos serviços e insumos <br/>
+Agenda compartilhada <br/>
+Pesquisa de serviços <br/>
+Alteração de dados <br/>
+Forma de pagamento ( a combinar com o profissional) <br/> 
+Agendamento <br/> 
+Comunicação direta entre cliente e profissional (número de celular) <br/>
 
 
 ### Módulo Cliente:
 
-Cadastro do Cliente
-Login 
-Recuperação de dados
-Busca de serviços 
-Realizar Agendamento de serviços com base na agenda do profissional 
-Métodos de contato com o profissional 
-Histórico de serviços
-Configuração de conta ( Alterações de dados)
+Cadastro do Cliente <br/>
+Login <br/> 
+Recuperação de dados <br/>
+Busca de serviços <br/> 
+Realizar Agendamento de serviços com base na agenda do profissional <br/> 
+Métodos de contato com o profissional <br/> 
+Histórico de serviços <br/>
+Configuração de conta ( Alterações de dados) <br/>
 
 
 
 ### Módulo do Profissional:
 
-Cadastro do Profissional
-Login
-Recuperação de dados
-Cadastro dos serviços
-Expor portfólio e serviços
-Acesso e configuração da agenda de serviço
-Configuração de conta ( Alterações de dados)
-Métodos de contato com o Cliente
+Cadastro do Profissional <br/>
+Login <br/>
+Recuperação de dados <br/>
+Cadastro dos serviços <br/>
+Expor portfólio e serviços <br/>
+Acesso e configuração da agenda de serviço <br/>
+Configuração de conta ( Alterações de dados) <br/>
+Métodos de contato com o Cliente <br/>
 
 
 
