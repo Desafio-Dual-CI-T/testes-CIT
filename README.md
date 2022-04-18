@@ -3,45 +3,10 @@
 # 🚀 Começando
 Os programa foi desenvolvido usando a linguágem java com framework selenium
 
-# 📋 Requisitos Funcionais.
-
-
-### Cadastro do usuário
-Login
-Cadastro dos serviços e insumos 
-Agenda compartilhada
-Pesquisa de serviços <br/>
-Alteração de dados <br/>
-Forma de pagamento ( a combinar com o profissional) <br/> 
-Agendamento <br/> 
-Comunicação direta entre cliente e profissional (número de celular) <br/>
-
-
-### Módulo Cliente:
-
-Cadastro do Cliente <br/>
-Login <br/> 
-Recuperação de dados <br/>
-Busca de serviços <br/> 
-Realizar Agendamento de serviços com base na agenda do profissional <br/> 
-Métodos de contato com o profissional <br/> 
-Histórico de serviços <br/>
-Configuração de conta ( Alterações de dados) <br/>
-
-
-
-### Módulo do Profissional:
-
-Cadastro do Profissional <br/>
-Login <br/>
-Recuperação de dados <br/>
-Cadastro dos serviços <br/>
-Expor portfólio e serviços <br/>
-Acesso e configuração da agenda de serviço <br/>
-Configuração de conta ( Alterações de dados) <br/>
-Métodos de contato com o Cliente <br/>
-
-
+# 📋 Pré-requisitos
+Para ter um teste 100% eficaz o usuário deverá baixar todas as dependêcias do projeto ( JUnit, Chrome devtools v95, Selenium.Api , SeleniumHTMLDriver, SeleniumSupport, etc. ) 
+Necessario de um IDE ( de preferencia NetBeans 12.5, onde o projeto foi criado) 
+Necessario a instalação no ChromeDriver no link: https://chromedriver.chromium.org/downloads
 
 🔧 Configurado o codigo
  
